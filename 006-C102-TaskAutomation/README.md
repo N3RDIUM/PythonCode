@@ -1,7 +1,7 @@
 # Task Automation
 
 #### The task I want to automate is Image Sorting.
-#### I choose this task because I have seen many people spend (or I should say WASTE) 
+#### I chose this task because I have seen many people spend (or I should say WASTE) 
 #### Countless hours in this sort of task.
 
 # About
