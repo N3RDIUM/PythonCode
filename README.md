@@ -8,3 +8,4 @@ Jump to:
 ##### [(4) Bank](004-C100-Bank)
 ##### [(5) Cloud Storage](005-C101-CloudStorage)
 ##### [(6) Task Automation](006-C102-TaskAutomation)
+##### [(7) Data Visualization 1](007-C103-DataVisualization-1)
