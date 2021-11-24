@@ -9,3 +9,4 @@ Jump to:
 ##### [(5) Cloud Storage](005-C101-CloudStorage)
 ##### [(6) Task Automation](006-C102-TaskAutomation)
 ##### [(7) Data Visualization 1](007-C103-DataVisualization-1)
+##### [(8) Data Visualization 1](008-C104-MeanMedianMode)
