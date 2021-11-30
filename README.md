@@ -13,3 +13,4 @@ Jump to:
 ##### [(9) Standard Deviation](009-C105-StandardDeviation)
 ##### [(10) Correlation](010-C106-Correlation)
 ##### [(11) Data Analysis](011-C107-DataAnalysis)
+##### [(12) Bell Curve](012-C108-BellCurve)

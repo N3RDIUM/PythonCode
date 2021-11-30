@@ -1,3 +1,7 @@
+# 010-C106-Correlation
+# This is a python script made by @somePythonProgrammer
+# for a WhiteHat Junior project.
+
 import pandas as pd
 import plotly_express as px
 import csv
