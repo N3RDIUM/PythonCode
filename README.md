@@ -14,3 +14,4 @@ Jump to:
 ##### [(10) Correlation](010-C106-Correlation)
 ##### [(11) Data Analysis](011-C107-DataAnalysis)
 ##### [(12) Bell Curve](012-C108-BellCurve)
+##### [(13) Properties of the bellcurve](013-C109-BellCurve-2)
