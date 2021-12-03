@@ -10,7 +10,7 @@ import statistics
 
 df = pd.read_csv('014-C110-SamplingDistribution/csv/data.csv')
 
-data_list = df['reading_time'].tolist()
+data_list = df['responses'].tolist()
 
 def show_figure(mean_list, mean):
     df = mean_list
