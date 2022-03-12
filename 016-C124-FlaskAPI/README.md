@@ -1,4 +1,4 @@
-# Z Tests
+# FlaskAPI
 
 ### This is a simple flask API server.
 
