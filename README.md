@@ -17,3 +17,4 @@ Jump to:
 ##### [(13) Properties of the bellcurve](013-C109-BellCurve-2)
 ##### [(14) Sampling Distribution](014-C110-SamplingDistribution)
 ##### [(15) Z Tests](015-C111-ZTests)
+##### [(16) Flask API](016-C124-FlaskAPI)
