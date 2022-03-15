@@ -18,3 +18,4 @@ Jump to:
 ##### [(14) Sampling Distribution](014-C110-SamplingDistribution)
 ##### [(15) Z Tests](015-C111-ZTests)
 ##### [(16) Flask API](016-C124-FlaskAPI)
+##### [(17) Prediction API](017-C125-PredictionAPI)

@@ -62,4 +62,4 @@ def set_done():
 if __name__ == '__main__':
     app.run(debug=True)
 
-pickle.dump(data, open('data.pkl', 'wb'))
+pickle.dump(data, open('_shared.pkl', 'wb'))
