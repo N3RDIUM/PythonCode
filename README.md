@@ -20,3 +20,4 @@ Jump to:
 ##### [(16) Flask API](016-C124-FlaskAPI)
 ##### [(17) Prediction API](017-C125-PredictionAPI)
 ##### [(18) Web Scraping](018-C127-WebScraping)
+##### [(19) Web Scraping 2](019-C128-WebScraping2)
