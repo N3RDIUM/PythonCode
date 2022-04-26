@@ -6,4 +6,4 @@
 #### Then, you need open the command line and type the following command(s):
 #### `git clone https://github.com/somePythonProgrammer/PythonCode.git`
 #### `cd PythonCode`
-#### `python 010-C106-Correlation/__main__.py`
+#### `python 010-C106-Correlation/main.py`

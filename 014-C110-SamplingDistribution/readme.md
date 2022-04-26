@@ -6,4 +6,4 @@
 #### Then, you need open the command line and type the following command(s):
 #### `git clone https://github.com/somePythonProgrammer/PythonCode.git`
 #### `cd PythonCode`
-#### `python 014-C110-SamplingDistribution/__main__.py`
+#### `python 014-C110-SamplingDistribution/main.py`

@@ -7,4 +7,4 @@
 #### Then, you need open the command line and type the following command(s):
 #### `git clone https://github.com/somePythonProgrammer/PythonCode.git`
 #### `cd PythonCode/`
-#### `python 006-C102-TaskAutomation/__main__.py`
+#### `python 006-C102-TaskAutomation/main.py`

@@ -6,4 +6,4 @@
 #### Then, you need open the command line and type the following command(s):
 #### `git clone https://github.com/somePythonProgrammer/PythonCode.git`
 #### `cd PythonCode`
-#### `python 013-C109-BellCurve-2/__main__.py`
+#### `python 013-C109-BellCurve-2/main.py`

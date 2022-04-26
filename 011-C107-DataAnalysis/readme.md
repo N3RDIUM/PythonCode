@@ -6,4 +6,4 @@
 #### Then, you need open the command line and type the following command(s):
 #### `git clone https://github.com/somePythonProgrammer/PythonCode.git`
 #### `cd PythonCode`
-#### `python 011-C107-DataAnalysis/__main__.py`
+#### `python 011-C107-DataAnalysis/main.py`

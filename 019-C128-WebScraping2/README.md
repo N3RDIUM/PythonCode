@@ -6,4 +6,4 @@
 #### Then, you need open the command line and type the following command(s):
 #### `git clone https://github.com/somePythonProgrammer/PythonCode.git`
 #### `cd PythonCode/019-C128-WebScraping2`
-#### `python __main__.py`
+#### `python main.py`
