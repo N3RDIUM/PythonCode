@@ -1,6 +1,6 @@
 # 022-C136-FlaskAPI
 
-### This cleans the data files.
+### This is a Flask API.
 
 #### To use this project, you need to install python and git.
 #### Then, you need open the command line and type the following command(s):
