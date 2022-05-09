@@ -1,4 +1,3 @@
-from flask import Flask, request, jsonify
 import pandas as pd
 
 df = pd.read_csv('articles.csv')
@@ -23,22 +22,3 @@ def get_recommendations(title):
     sim_scores = sim_scores[1:11]
     indices = [i[0] for i in sim_scores]
     return df.iloc[indices]
-
-app = Flask(__name__)
-
-@app.route('/')
-def index():
-    return jsonify({
-        "status": "ok",
-    })
-
-@app.route('/article_recommendations')
-def article_recommendations():
-    title = request.args.get('title')
-    return jsonify({
-        "status": "ok",
-        "articles": get_recommendations(title).to_dict('records')
-    })
-
-if __name__ == '__main__':
-    app.run(debug=True)
