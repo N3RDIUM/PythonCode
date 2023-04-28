@@ -27,3 +27,4 @@ Jump to:
 ##### [(23) Flask mockup](023-C141-FlaskMockup)
 ##### [(24) Flask mockup 2](024-C142-FlaskMockup2)
 ##### [(25) Introduction to Tkinter](025-C201-IntroductionToTkinter)
+##### [(26) Socket Chat App CLI](026-C199-C200-SocketClientServer)
