@@ -29,3 +29,4 @@ Jump to:
 ##### [(25) Introduction to Tkinter](025-C201-IntroductionToTkinter)
 ##### [(26) Socket Chat App CLI](026-C199-C200-SocketClientServer)
 ##### [(27) Socket Chat App GUI](027-C202-GUIChat1)
+##### [(28) Socket Chat App GUI](027-C203-GUIChat2)
