@@ -1,12 +1,12 @@
-# 026-C199-C200-SocketClientServer
+# 030-C210-MusicSharingApp
 
-### Socket client and server.
+### Bingo with sockets
 
 #### To use this project, you need to install python and git.
 #### Then, you need open the command line and type the following command(s):
 #### `git clone https://github.com/n3rdium/PythonCode.git`
-#### `cd PythonCode/026-C199-C200-SocketClientServer`
+#### `cd PythonCode/030-C210-MusicSharingApp`
 #### `python server.py`
 
-#### Then you can open another command line and type the following command(s):
+#### Then you can open another command line and type the following command(s) to open multiple clients:
 #### `python client.py`

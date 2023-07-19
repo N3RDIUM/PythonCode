@@ -1,5 +1,5 @@
 # 013-C109-BellCurve-2
-# This is a python script made by @somePythonProgrammer
+# This is a python script made by @n3rdium
 # for a WhiteHat Junior project.
 
 import pandas as pd

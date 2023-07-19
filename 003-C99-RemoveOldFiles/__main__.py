@@ -1,5 +1,5 @@
 # Folder Cleaner
-# Made by somePythonProgrammer as a WhiteHat project.
+# Made by n3rdium as a WhiteHat project.
 
 import os
 import time

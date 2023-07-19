@@ -1,5 +1,5 @@
 # Bank
-# Made by somePythonProgrammer as a WhiteHat project.
+# Made by n3rdium as a WhiteHat project.
 # This is an example on how to use classes.
 
 class User:

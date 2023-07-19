@@ -1,5 +1,5 @@
 # 014-C110-SamplingDistribution
-# This is a python script made by @somePythonProgrammer
+# This is a python script made by @n3rdium
 # for a WhiteHat Junior project.
 
 import pandas as pd
