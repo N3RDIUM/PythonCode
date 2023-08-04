@@ -36,6 +36,19 @@ def handle_client(conn, addr):
     })
     print(f"Got client details: {str(clients[-1])}")
     
+    while True:
+        data = conn.recv(1024)
+        if not data or data == b"": continue
+        data = json.loads(data.decode())
+        if data['type'] == "message":
+            for client in clients:
+                if client['uname'] == data['other_username']:
+                    print(f"Sending message to {client['uname']}")
+                    client['conn'].send(json.dumps({
+                        "type": "message",
+                        "message": data['message']
+                    }).encode())
+    
 while True:
     conn, addr = server.accept()
     thread = threading.Thread(target=handle_client, args=(conn, addr))
